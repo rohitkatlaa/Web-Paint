@@ -4,11 +4,11 @@
 
 **Features:**
 	This project has many tools which can be used to draw and paint.Some of the tools are:<br />
-	-Paint brush
-	-Rectangle and Filled Rectangle
-	-Circle and Filled Circle
-	-Ellipse and Filled Ellipse
-	-Eraser
+	*Paint brush
+	*Rectangle and Filled Rectangle
+	*Circle and Filled Circle
+	*Ellipse and Filled Ellipse
+	*Eraser
 	This application also allows you to choose color and choose the thickness of the brush.It also provides a one line instruction as to how to use this tool.There is an option called Save Image to save the drawing and render it in a new page.
 
 
