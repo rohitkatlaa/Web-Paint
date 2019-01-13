@@ -1,0 +1,23 @@
+			PROJECT REPORT
+		PROJECT NAME : WEB PAINT
+	
+	This is a web application which can be used for many applications based on the users imagination.As drawing and painting is based on the user's imagination this project's application is also based on the user's imagination.This project can be used to draw,paint,write notes,scribble etc.
+
+Motive for this project:
+	I was actually bored during my holidays and so I started this project to get rid of boredom.I got the idea for this project when one of the zense members showed his projects and told that he used HTML Canvas to do this project.Thats how I got the idea for this project.
+
+Features:
+This project has many tools which can be used to draw and paint.Some of the tools are:
+	1)Paint brush
+	2)Rectangle and Filled Rectangle
+	3)Circle and Filled Circle
+	4)Ellipse and Filled Ellipse
+	5)Eraser
+
+	This application also allows you to choose color and choose the thickness of the brush.It also provides a one line instruction as to how to use this tool.There is an option called Save Image to save the drawing and render it in a new page.
+
+Experience:
+	This project was actually an easy project compared to my other projects.It was interesting to work with HTML Canvas and W3Schools was my teacher for this project.I enjoyed working on this project.
+
+Future Scope of my project:
+	I wish to improve this project to the level where all the features of  MS Paint or any other drawing application is implimented in this project.
